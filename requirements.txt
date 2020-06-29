@@ -1,0 +1,22 @@
+Работа с webpack, который будет добавлять модульность, дублировать зависимости для проектов и содержать хорошую инфраструктуру. 
+
+Webpack (imports/exports)
+    Babel - транскомпилятор JavaScript
+    Scss
+    Eslint (статический анализ кода)
+    2 Modes (2 режима сборка проекта): 
+        - Dev (Dev Server, SourceMaps, Eslint, Not Minified JS & CSS)
+        - Prod (Minified Code)
+
+Система контроля версий Git (в курсе будут определенный Git Flow)
+
+    Procuction 
+        1.0.0
+
+        0 -------
+
+    Development
+        1.0.2
+
+        1 ------------- + --   Pull Request + 
+        2 --------------- | 
